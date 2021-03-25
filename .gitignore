@@ -1,0 +1,8 @@
+bin/*
+bin/*.refresh
+.vs/*
+.vs/*.refresh
+obj/*
+obj/*.refresh
+obj/Debug/*
+obj/Debug/*.refresh
